@@ -2,18 +2,22 @@
     ''' <summary>
     '''     This program will show you how to get input from the user.
     ''' </summary>
-    ''' <author> Mr Macri </author>
-    ''' <date> 10Jun19 </date>
+    ''' <author> James Malsher </author>
+    ''' <date> 6/8/19 </date>
     ''' 
     Sub Main()
         ' Housekeeping
+        Dim UserName, OutputMessage As String
+        Dim FirstName, SecondNumber, Sum, Product As Integer
 
 
         ' Ask for user name
+        Console.WriteLine("Enter your name here.")
+        UserName = Console.ReadLine()
 
 
         ' Ask user for two numbers
-
+        Console.WriteLine()
 
         ' Add numbers together
 
