@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\02_Get_Input\obj\Debug\02_Get_Input.
 C:\Users\lee.macri.TRINITY.000\source\repos\02_Get_Input\obj\Debug\02_Get_Input.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\02_Get_Input\obj\Debug\02_Get_Input.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\02_Get_Input\obj\Debug\02_Get_Input.pdb
+C:\Dev\programming-in-visual-basic-JamesMal\02_Get_Input\bin\Debug\02_Get_Input.exe.config
+C:\Dev\programming-in-visual-basic-JamesMal\02_Get_Input\bin\Debug\02_Get_Input.exe
+C:\Dev\programming-in-visual-basic-JamesMal\02_Get_Input\bin\Debug\02_Get_Input.pdb
+C:\Dev\programming-in-visual-basic-JamesMal\02_Get_Input\bin\Debug\02_Get_Input.xml
+C:\Dev\programming-in-visual-basic-JamesMal\02_Get_Input\obj\Debug\02_Get_Input.vbprojAssemblyReference.cache
+C:\Dev\programming-in-visual-basic-JamesMal\02_Get_Input\obj\Debug\_02_Get_Input.Resources.resources
+C:\Dev\programming-in-visual-basic-JamesMal\02_Get_Input\obj\Debug\02_Get_Input.vbproj.GenerateResource.cache
+C:\Dev\programming-in-visual-basic-JamesMal\02_Get_Input\obj\Debug\02_Get_Input.vbproj.CoreCompileInputs.cache
+C:\Dev\programming-in-visual-basic-JamesMal\02_Get_Input\obj\Debug\02_Get_Input.exe
+C:\Dev\programming-in-visual-basic-JamesMal\02_Get_Input\obj\Debug\02_Get_Input.xml
+C:\Dev\programming-in-visual-basic-JamesMal\02_Get_Input\obj\Debug\02_Get_Input.pdb
