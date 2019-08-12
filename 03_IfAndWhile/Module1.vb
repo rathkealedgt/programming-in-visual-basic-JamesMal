@@ -1,24 +1,35 @@
 ﻿''' <summary>
 '''     This exercise will introduce you to if statements and while loops.
 ''' </summary>
-''' <author> Mr Macri </author>
-''' <date> 13Jun19 </date>
+''' <author> James Malsher </author>
+''' <date> 12/  8/19 </date>
 ''' 
 Module Module1
 
     Sub Main()
         ' Housekeeping
-        Dim UserResponse As String
+        Dim UserInput As String
+        Dim KeepGoing As String = ""
 
-        ' Ask user if they like coffee and record their answer.
-        Console.WriteLine("Do you like coffee?")
-        UserResponse = Console.ReadLine()
+        While KeepGoing = ""
+            ' Ask user if they like coffee and record their answer.
+            Console.WriteLine("Do you like tea or coffee?")
+            UserInput = Console.ReadLine().ToLower()
 
-        ' Check input and respond
+            ' Check input and respond
+            If UserInput = "Coffee" Or UserInput = "C" Then
+                Console.WriteLine("I like coffee too, my favorite is Flat White.")
+            ElseIf UserInput = "Tea" Or UserInput = "T" Then
+                Console.WriteLine("I like tea too. my favorite is Earl Grey")
+            Else
+                Console.WriteLine("I don't understand!")
+            End If
 
+            ' Pause program to let the user read 
+            Console.WriteLine("Press q followed by <enter> to quit.")
+            KeepGoing = Console.ReadLine()
 
-        ' Pause program to let the user read 
-        Console.ReadLine()
+        End While
 
     End Sub
 

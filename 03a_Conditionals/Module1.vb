@@ -7,11 +7,11 @@
 Module Module1
 
     Sub Main()
-        'Housekeeping
-
+        ' Housekeeping
+        Dim UserResponse As String
 
         ' Ask the user to enter their age and store it
-
+        Console.WriteLine("Please enter your age, if you don't mind")
 
         ' If the user is 18 or over, tell them they can vote.
 

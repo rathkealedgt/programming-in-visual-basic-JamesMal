@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhil
 C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhile.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhile.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhile.pdb
+C:\Dev\programming-in-visual-basic-JamesMal\03_IfAndWhile\bin\Debug\03_IfAndWhile.exe.config
+C:\Dev\programming-in-visual-basic-JamesMal\03_IfAndWhile\bin\Debug\03_IfAndWhile.exe
+C:\Dev\programming-in-visual-basic-JamesMal\03_IfAndWhile\bin\Debug\03_IfAndWhile.pdb
+C:\Dev\programming-in-visual-basic-JamesMal\03_IfAndWhile\bin\Debug\03_IfAndWhile.xml
+C:\Dev\programming-in-visual-basic-JamesMal\03_IfAndWhile\obj\Debug\03_IfAndWhile.vbprojAssemblyReference.cache
+C:\Dev\programming-in-visual-basic-JamesMal\03_IfAndWhile\obj\Debug\_03_IfAndWhile.Resources.resources
+C:\Dev\programming-in-visual-basic-JamesMal\03_IfAndWhile\obj\Debug\03_IfAndWhile.vbproj.GenerateResource.cache
+C:\Dev\programming-in-visual-basic-JamesMal\03_IfAndWhile\obj\Debug\03_IfAndWhile.vbproj.CoreCompileInputs.cache
+C:\Dev\programming-in-visual-basic-JamesMal\03_IfAndWhile\obj\Debug\03_IfAndWhile.exe
+C:\Dev\programming-in-visual-basic-JamesMal\03_IfAndWhile\obj\Debug\03_IfAndWhile.xml
+C:\Dev\programming-in-visual-basic-JamesMal\03_IfAndWhile\obj\Debug\03_IfAndWhile.pdb
